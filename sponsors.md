@@ -8,8 +8,10 @@ keywords: sponsor, FRC, first
 <h1>Sponsors</h1>
 
 
-<div class="panel callout radius"> <p> <h3>JLMC</h3> <br>JLMC provides us with tools for metal working. They also provide us with materials, resources and heavy machinery.</br> </p> </div>
 <p> <h3>JLMC</h3> </p><div class="panel callout radius">JLMC provides us with tools for metal working. They also provide us with materials, resources and heavy machinery. </div>
+<p> <h3>Valve</h3> </p><div class="panel callout radius">Valve has let us use their logo and donated some free swag! </div>
+<p> <h3>Sparkfun</h3> </p><div class="panel callout radius">Sparkfun has donated items and electronics. </div>
+<p> <h3>Boeing</h3> </p><div class="panel callout radius">Boeing has provided us with the grant money to compete in the competition. </div>
 
 <p>You can see all <a href="https://github.com/daigofuji/jekyll-foundation-5-starter/tree/gh-pages"><i class="fa fa-github"> 	
 </i> my sources here</a>. I created this for my personal use, but if you'd like to use it, please feel free. Shout out <a href="http://daigo.org">daigo.org</a> or <a href="http://twitter.com/DaigoFuji">@DaigoFuji</a> are appreciated, but not required.</p>
