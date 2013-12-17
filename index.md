@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Welcome!
-description: This is my site. Welcome.
+title: Home
+description: This is the home of Team 5107 The Neurotoxins
 keywords: github pages, Jekyll, foundation 5
 ---
 
-<h1>Whoa! Jekyll, Foundation 5, HTML5 boiler plate and github pages!</h1>
+<h1>Welcome to the home of FRC Team 5107 </h1>
 
 
-<p>I've combined my locally installed <a href="http://foundation.zurb.com/docs/sass.html">Sass version of foundation 5</a>, <a href="http://html5boilerplate.com/">html5 boilder plate</a>, and Jekyll to be used for github pages! See <a href="http://jekyllrb.com/docs/home/">Jekyll's documentation</a>, <a href="http://foundation.zurb.com/docs/">the foundation documentations</a>, and <a href="https://help.github.com/categories/20/articles">GitHub pages help pages</a>.</p>
+<p>We are an eight man team out of Upland High School competing in the 2014 Inland Empire Regional. <br>Our team consists of eight people : Brenden Geary, Ryan Gosiaco, Sean Gosiaco, Trenton Koeper, Conner Leonard, Padrick Osborn, Jake Scruggs, Liam Austin and UNKNOWN KID.</br>We are currently accepting any and all <a href="http://kata.na.tl/url/paypal">donations</a>!</p>
 
 <p>You can see all <a href="https://github.com/daigofuji/jekyll-foundation-5-starter/tree/gh-pages"><i class="fa fa-github"> 	
 </i> my sources here</a>. I created this for my personal use, but if you'd like to use it, please feel free. Shout out <a href="http://daigo.org">daigo.org</a> or <a href="http://twitter.com/DaigoFuji">@DaigoFuji</a> are appreciated, but not required.</p>
