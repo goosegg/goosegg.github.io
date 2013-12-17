@@ -8,7 +8,7 @@ keywords: frc, 5107, neurotoxins, the neurotoxins, first
 <h1>Welcome to the home of FRC Team 5107 </h1>
 
 
-<p>We are an eight man team out of Upland High School competing in the 2014 Inland Empire Regional. <br>Our team consists of eight people : Brenden Geary, Ryan Gosiaco, Sean Gosiaco, Trenton Koeper, Conner Leonard, Padrick Osborn, Jake Scruggs, Liam Austin and UNKNOWN KID.</br>We are currently accepting any and all <a href="http://kata.na.tl/url/paypal">donations</a>!</p>
+<p>We are an eight man team out of Upland High School competing in the 2014 Inland Empire Regional. <br>Our team consists of many gifted and creative people.</br>We are currently accepting any and all <a href="http://kata.na.tl/url/paypal">donations</a>!</p>
 
 <p>You can see all <a href="https://github.com/daigofuji/jekyll-foundation-5-starter/tree/gh-pages"><i class="fa fa-github"> 	
 </i> my sources here</a>. I created this for my personal use, but if you'd like to use it, please feel free. Shout out <a href="http://daigo.org">daigo.org</a> or <a href="http://twitter.com/DaigoFuji">@DaigoFuji</a> are appreciated, but not required.</p>
