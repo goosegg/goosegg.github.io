@@ -5,7 +5,7 @@ description: This is our team!
 keywords: team, FRC, first
 ---
 
-<h2>Team Members and Mentors</h2>
+<h1>Team Members and Mentors</h1>
 
 
 <p><br>Brenden Geary-Team DB</br> <br>Ryan Gosiaco-Best</br> <br>Sean Gosiaco-Best</br> <br>Conner Leonard-Best</br> <br>Padrick Osborn-Best</br> <br>Liam Austin-Best</br> <br>Jake Scruggs-Best</br> <br>UNKNOWN KID-Best</br> </p>
