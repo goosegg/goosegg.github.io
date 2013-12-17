@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Team
-description: This is our team!
-keywords: team, FRC, first
+title: Sponsors
+description: Our Sponsors!
+keywords: sponsor, FRC, first
 ---
 
-<h1>Team Members/Mentors</h1>
+<h1>Sponsors</h1>
 
 
 <p><br>Brenden Geary-Team DB</br> <br>Ryan Gosiaco-Best</br> <br>Sean Gosiaco-Best</br> <br>Conner Leonard-Best</br> <br>Padrick Osborn-Best</br> <br>Liam Austin-Best</br> <br>Jake Scruggs-Best</br> <br>UNKNOWN KID-Best</br> </p>
