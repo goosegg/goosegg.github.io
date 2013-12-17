@@ -2,7 +2,7 @@
 layout: default
 title: Home
 description: This is the home of Team 5107 The Neurotoxins
-keywords: github pages, Jekyll, foundation 5
+keywords: frc, 5107, neurotoxins, the neurotoxins, first
 ---
 
 <h1>Welcome to the home of FRC Team 5107 </h1>
