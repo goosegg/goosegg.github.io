@@ -5,7 +5,7 @@ description: This is our team!
 keywords: team, FRC, first
 ---
 
-<h1>Team Members and Mentors</h1>
+<h2>Team Members and Mentors</h2>
 
 
 <p><br>Brenden Geary-Team DB</br> <br>Ryan Gosiaco-Best</br> <br>Sean Gosiaco-Best</br> <br>Conner Leonard-Best</br> <br>Padrick Osborn-Best</br> <br>Liam Austin-Best</br> <br>Jake Scruggs-Best</br> <br>UNKNOWN KID-Best</br> </p>
@@ -13,7 +13,7 @@ keywords: team, FRC, first
 <p>You can see all <a href="https://github.com/daigofuji/jekyll-foundation-5-starter/tree/gh-pages"><i class="fa fa-github"> 	
 </i> my sources here</a>. I created this for my personal use, but if you'd like to use it, please feel free. Shout out <a href="http://daigo.org">daigo.org</a> or <a href="http://twitter.com/DaigoFuji">@DaigoFuji</a> are appreciated, but not required.</p>
 
-<div class="panel callout radius"> <br>Ryan Gosiaco-Best</br> </div>
+<div class="panel callout radius">Ryan Gosiaco-Best</div>
 
 <p>And out of the box, this supports <a href="http://fortawesome.github.io/Font-Awesome/">
 	<i class="fa fa-flag fa-lg">	
