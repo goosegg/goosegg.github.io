@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Welcome!
-description: This is my site. Welcome.
-keywords: github pages, Jekyll, foundation 5
+title: Team
+description: This is our team!
+keywords: team, FRC, first
 ---
 
 <h1>Whoa! Jekyll, Foundation 5, HTML5 boiler plate and github pages!</h1>
