@@ -5,10 +5,10 @@ description: This is our team!
 keywords: team, FRC, first
 ---
 
-<h1>Whoa! Jekyll, Foundation 5, HTML5 boiler plate and github pages!</h1>
+<h1>Team Members and Mentors</h1>
 
 
-<p>I've combined my locally installed <a href="http://foundation.zurb.com/docs/sass.html">Sass version of foundation 5</a>, <a href="http://html5boilerplate.com/">html5 boilder plate</a>, and Jekyll to be used for github pages! See <a href="http://jekyllrb.com/docs/home/">Jekyll's documentation</a>, <a href="http://foundation.zurb.com/docs/">the foundation documentations</a>, and <a href="https://help.github.com/categories/20/articles">GitHub pages help pages</a>.</p>
+<p>Brenden Geary-Team DB <br>Ryan Gosiaco-Best</br> <br>Sean Gosiaco-Best</br> <br>Conner Leonard-Best</br> <br>Padrick Osborn-Best</br> <br>Liam Austin-Best</br> <br>Jake Scruggs-Best</br> <br>UNKNOWN KID-Best</br> </p>
 
 <p>You can see all <a href="https://github.com/daigofuji/jekyll-foundation-5-starter/tree/gh-pages"><i class="fa fa-github"> 	
 </i> my sources here</a>. I created this for my personal use, but if you'd like to use it, please feel free. Shout out <a href="http://daigo.org">daigo.org</a> or <a href="http://twitter.com/DaigoFuji">@DaigoFuji</a> are appreciated, but not required.</p>
