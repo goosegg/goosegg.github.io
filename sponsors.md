@@ -1,19 +1,19 @@
 ---
 layout: default
-title: Home
-description: This is the home of Team 5107 The Neurotoxins
-keywords: frc, 5107, neurotoxins, the neurotoxins, first
+title: Team
+description: This is our team!
+keywords: team, FRC, first
 ---
 
-<h1>Welcome to the home of FRC Team 5107 </h1>
+<h1>Team Members/Mentors</h1>
 
 
-<p>We are an eight man team out of Upland High School competing in the 2014 Inland Empire Regional. <br>Our team consists of many gifted and creative people.</br>We are currently accepting any and all <a href="http://kata.na.tl/url/paypal">donations</a>!</p>
+<p><br>Brenden Geary-Team DB</br> <br>Ryan Gosiaco-Best</br> <br>Sean Gosiaco-Best</br> <br>Conner Leonard-Best</br> <br>Padrick Osborn-Best</br> <br>Liam Austin-Best</br> <br>Jake Scruggs-Best</br> <br>UNKNOWN KID-Best</br> </p>
 
 <p>You can see all <a href="https://github.com/daigofuji/jekyll-foundation-5-starter/tree/gh-pages"><i class="fa fa-github"> 	
 </i> my sources here</a>. I created this for my personal use, but if you'd like to use it, please feel free. Shout out <a href="http://daigo.org">daigo.org</a> or <a href="http://twitter.com/DaigoFuji">@DaigoFuji</a> are appreciated, but not required.</p>
 
-<div class="panel callout radius">You should probably update the <samp>_config.yml</samp> file, and edit <samp>scss/_setting.scss</samp> file. As well as <samp>scss/_custom.scss</samp>, where most the overrides are happening.</div>
+<div class="panel callout radius">Ryan Gosiaco-Best</div>
 
 <p>And out of the box, this supports <a href="http://fortawesome.github.io/Font-Awesome/">
 	<i class="fa fa-flag fa-lg">	
